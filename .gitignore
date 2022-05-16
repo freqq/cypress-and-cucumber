@@ -24,4 +24,7 @@ yarn-error.log*
 
 # Cypress
 cypress/videos
-cypress/screeshots
+cypress/screenshots
+cypress/download
+cypress/cucumber-json
+reports
