@@ -27,4 +27,4 @@ cypress/videos
 cypress/screenshots
 cypress/download
 cypress/cucumber-json
-reports
+reports/
